@@ -1,0 +1,1 @@
+FROM paddlepaddle/paddle:2.4.1

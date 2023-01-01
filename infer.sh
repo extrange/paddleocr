@@ -1,0 +1,1 @@
+python PaddleOCR/tools/infer/predict_system.py --image_dir images/ --det_model_dir="models/en_PP-OCRv3_det_infer/" --cls_model_dir="models/ch_ppocr_mobile_v2.0_cls_infer/" --rec_model_dir="models/en_PP-OCRv3_rec_infer/" --rec_char_dict_path="PaddleOCR/ppocr/utils/en_dict.txt" --vis_font_path="OpenSans-Medium.ttf"

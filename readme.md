@@ -4,7 +4,7 @@ This is a fork of [PaddleOCR][paddle-ocr].
 
 Usage instructions:
 
-- Clone this repository and setup a VSCode dev container.
+- Clone this repository and setup the VSCode dev container.
 - Save images into `images/` directory
 - Run `./infer.sh`
 
